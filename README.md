@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](\images\screenshot.JPG)
+![]([\images\screenshot.JPG](https://github.com/TheyCallMePrem/Order-summary-component/blob/591cf10bb9088c84d627626f50140eb4f9883f20/images/screenshot.JPG))
 
 ### Links
 
