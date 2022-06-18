@@ -2,7 +2,7 @@
 /* Nested div*/
 /*Default cursor */
 body{
-    background-image: url(images/pattern-background-desktop.svg);
+    background-image: url('~/images/pattern-background-desktop.svg?inline');
     background-repeat: no-repeat;
     background-size: 100vw auto;
     background-color: hsl(225, 100%, 94%);
